@@ -1,0 +1,341 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 tvg-ID="CANALplus.fr" tvg-name="FR: Canal+ HD" tvg-logo="canal.png" catchup="shift" catchup-days="3",[COLOR violet]Canal +[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5942
+
+#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="FR: C Star HD" tvg-logo="cstar.png" catchup="shift" catchup-days="3",[COLOR violet]Cstar[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10655
+
+#EXTINF:-1 tvg-ID="C8.fr" tvg-name="FR: C8 HD" tvg-logo="c8.png" catchup="shift" catchup-days="3",[COLOR violet]C8[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10645
+
+#EXTINF:-1 tvg-ID="TMC.fr" tvg-name="FR: TMC HD" tvg-logo="tmc.png" catchup="shift" catchup-days="3",[COLOR violet]TMC[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6514
+
+#EXTINF:-1 tvg-ID="ARTE.fr" tvg-name="FR: ARTE HD" tvg-logo="arte.png" catchup="shift" catchup-days="3",[COLOR violet]ARTE[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6512
+
+#EXTINF:-1 tvg-ID="France5.fr" tvg-name="FR: France 5 HD" tvg-logo="france5.png" catchup="shift" catchup-days="3",[COLOR violet]France 5[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6306
+
+#EXTINF:-1 tvg-ID="PLANETE.fr" tvg-name="FR: PLANETE + HD" tvg-logo="planete.png" catchup="shift" catchup-days="3",[COLOR violet]Planète +[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/8315
+
+#EXTINF:-1 tvg-ID="PLANETEAandE.fr" tvg-name="FR: PLANETE A&E HD" tvg-logo="planeteae.png" catchup="shift" catchup-days="3",[COLOR violet]Planete + aventure[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600//6257
+
+#EXTINF:-1 tvg-ID="NationalGeographic.fr" tvg-name="FR: NAT GEO HD" tvg-logo="nationalgeographic.png" catchup="shift" catchup-days="3",[COLOR violet]National Geographic[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/8318
+
+#EXTINF:-1 tvg-ID="ABXplore.be" tvg-name="BE: ABXplore HD" tvg-logo="abxplore.png" catchup="shift" catchup-days="3",[COLOR violet]ABxplore[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/511
+
+#EXTINF:-1 tvg-ID="Canal+Docs.fr" tvg-name="FR: CANAL+ DOCS FHD" tvg-logo="canaldocs.png" catchup="shift" catchup-days="3",[COLOR violet]Canal + Docs[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/51789
+
+#EXTINF:-1 tvg-ID="RMCdecouverte.fr" tvg-name="FR: RMC Decouverte HD" tvg-logo="rmcdecouverte.png" catchup="shift" catchup-days="3",[COLOR violet]RMC Decouverte[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6197
+
+#EXTINF:-1 tvg-ID="RMCStory.fr" tvg-name="FR: RMC Story HD" tvg-logo="rmcstory.png" catchup="shift" catchup-days="3",[COLOR violet]RMC Story[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10647
+
+#EXTINF:-1 tvg-ID="Discovery.fr" tvg-name="FR: Discovery Channel HD" tvg-logo="discovery.png" catchup="shift" catchup-days="3",[COLOR violet]Discovery[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6194
+
+#EXTINF:-1 tvg-ID="DiscoveryScience.fr" tvg-name="FR: Discovery Science HD" tvg-logo="discoverysc.png" catchup="shift" catchup-days="3",[COLOR violet]Discovery Science[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6195
+
+#EXTINF:-1 tvg-ID="ScienceVie.fr" tvg-name="FR: Science et Vie HD" tvg-logo="sciencevie.png" catchup="shift" catchup-days="3",[COLOR violet]Science & Vie[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6858
+
+#EXTINF:-1 tvg-ID="ParamountChannel.fr" tvg-name="FR: Museum Channel HD" tvg-logo="museum.png" catchup="shift" catchup-days="3",[COLOR violet]Museum[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/9902
+
+#EXTINF:-1 tvg-ID="CrimeDistrict.fr" tvg-name="FR: Crime District HD" tvg-logo="crimedistrict.png" catchup="shift" catchup-days="3",[COLOR violet]Crime District[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/9584
+
+#EXTINF:-1 tvg-ID="DiscoveryInvestigation.fr" tvg-name="FR: Discovery ID HD" tvg-logo="discoveryid.png" catchup="shift" catchup-days="3",[COLOR violet]Discovery ID[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6157
+
+#EXTINF:-1 tvg-ID="PLANETEJustice.fr" tvg-name="FR: PLANETE CI HD" tvg-logo="planeteci.png" catchup="shift" catchup-days="3",[COLOR violet]Planète+ Crime[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/8316
+
+#EXTINF:-1 tvg-ID="Histoire.fr" tvg-name="FR: HISTOIRE HD" tvg-logo="histoire.png" catchup="shift" catchup-days="3",[COLOR violet]Histoire[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10626
+
+#EXTINF:-1 tvg-ID="TouteHistoire.fr" tvg-name="FR: Toute L'histoire FHD" tvg-logo="toutelhistoire.png" catchup="shift" catchup-days="3",[COLOR violet]Toute L'Histoire[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/30469
+
+#EXTINF:-1 tvg-ID="Automoto.fr" tvg-name="FR: Automoto HD" tvg-logo="automoto.png" catchup="shift" catchup-days="3",[COLOR violet]Automoto[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/30050
+
+#EXTINF:-1 tvg-ID="Trek.fr" tvg-name="FR: TREK HD" tvg-logo="trek.png" catchup="shift" catchup-days="3",[COLOR violet]Trek[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10623
+
+#EXTINF:-1 tvg-ID="Nautical.eu" tvg-name="FR: Nautical Channel FHD" tvg-logo="nauticalchannel.png" catchup="shift" catchup-days="3",[COLOR violet]Nautical Channel[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/24787
+
+#EXTINF:-1 tvg-ID="NatGeoWildHD.fr" tvg-name="FR: NAT GEO Wild HD" tvg-logo="natgeowild.png" catchup="shift" catchup-days="3",[COLOR violet]Nat Geo Wild[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/8319
+
+#EXTINF:-1 tvg-ID="Animaux.fr" tvg-name="FR: Animaux HD" tvg-logo="animaux.png" catchup="shift" catchup-days="3",[COLOR violet]Animaux[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10624
+
+#EXTINF:-1 tvg-ID="UshuaiaTV.fr" tvg-name="FR: Ushuaia TV HD" tvg-logo="ushuaia.png" catchup="shift" catchup-days="3",[COLOR violet]Ushuaia TV[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6278
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="RTSUn.ch" tvg-name="SUI: RTS 1 HD" tvg-logo="rtsun.png" catchup="shift" catchup-days="3",[COLOR violet]RTS un[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/783
+
+#EXTINF:-1 tvg-ID="RTSDeux.ch" tvg-name="SUI: RTS 2 HD" tvg-logo="rtsdeux.png" catchup="shift" catchup-days="3",[COLOR violet]RTS deux[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/784
+
+#EXTINF:-1 tvg-ID="AB1.fr" tvg-name="FR: AB1 HD" tvg-logo="ab1.png" catchup="shift" catchup-days="3",[COLOR violet]AB1[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10642
+
+#EXTINF:-1 tvg-ID="LaUne.be" tvg-name="BE: La Une HD" tvg-logo="laune.png" catchup="shift" catchup-days="3",[COLOR violet]La Une[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6518
+
+#EXTINF:-1 tvg-ID="TF1.fr" tvg-name="FR: TF1 HD" tvg-logo="tf1.png" catchup="shift" catchup-days="3",[COLOR violet]TF1[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/13302
+
+#EXTINF:-1 tvg-ID="France2.fr" tvg-name="FR: France 2 HD" tvg-logo="france2.png" catchup="shift" catchup-days="3",[COLOR violet]France 2[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6253
+
+#EXTINF:-1 tvg-ID="France3.fr" tvg-name="FR: France 3 HD" tvg-logo="france3.png" catchup="shift" catchup-days="3",[COLOR violet]France 3[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6254
+
+#EXTINF:-1 tvg-ID="LaTrois.be" tvg-name="BE: La Trois HD" tvg-logo="latrois.png" catchup="shift" catchup-days="3",[COLOR violet]La Trois[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6520
+
+#EXTINF:-1 tvg-ID="AB3.be" tvg-name="BE: AB3 HD" tvg-logo="ab3.png" catchup="shift" catchup-days="3",[COLOR violet]AB3[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/24791
+
+#EXTINF:-1 tvg-ID="France4.fr" tvg-name="FR: France 4 HD" tvg-logo="france4.png" catchup="shift" catchup-days="3",[COLOR violet]France 4[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6305
+
+#EXTINF:-1 tvg-ID="CINECLASSIC.BE" tvg-name="FR: TV5 MONDE HD" tvg-logo="TV5.png" catchup="shift" catchup-days="3",[COLOR violet]TV5[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6861
+
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="FR: 6TER HD" tvg-logo="6ter.png" catchup="shift" catchup-days="3",[COLOR violet]6 TER[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6516
+
+#EXTINF:-1 tvg-ID="M6.fr" tvg-name="FR: M6 HD" tvg-logo="m6.png" catchup="shift" catchup-days="3",[COLOR violet]M6[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/13303
+
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR: RTL 9 HD" tvg-logo="rtl9.png" catchup="shift" catchup-days="3",[COLOR violet]RTL 9[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10657
+
+#EXTINF:-1 tvg-ID="W9.fr" tvg-name="FR: W9 HD" tvg-logo="w9.png" catchup="shift" catchup-days="3",[COLOR violet]W9[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10644
+
+#EXTINF:-1 tvg-ID="NRJ12.fr" tvg-name="FR: NRJ 12 HD" tvg-logo="nrj12.png" catchup="shift" catchup-days="3",[COLOR violet]NRJ 12[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6280
+
+#EXTINF:-1 tvg-ID="13RUE.fr" tvg-name="FR: 13Eme Rue HD" tvg-logo="13rue.png" catchup="shift" catchup-days="3",[COLOR violet]13 Eme Rue[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6275
+
+#EXTINF:-1 tvg-ID="Cherie25.fr" tvg-name="FR: Cherie 25 HD" tvg-logo="cherie25.png" catchup="shift" catchup-days="3",[COLOR violet]Chérie 25[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10648
+
+#EXTINF:-1 tvg-ID="Comedie.fr" tvg-name="FR: Comedie+ HD" tvg-logo="comedie.png" catchup="shift" catchup-days="3",[COLOR violet]Comédie +[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6277
+
+#EXTINF:-1 tvg-ID="ComedyCentral.fr" tvg-name="FR: Comedy Central HD" tvg-logo="comedycentral.png" catchup="shift" catchup-days="3",[COLOR violet]Comedy Central[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/64540
+
+#EXTINF:-1 tvg-ID="ClubRTL.be" tvg-name="BE: Club RTL HD" tvg-logo="clubrtl.png" catchup="shift" catchup-days="3",[COLOR violet]Club RTL[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/721
+
+#EXTINF:-1 tvg-ID="Eentertainment.fr" tvg-name="FR: E! HD" tvg-logo="e.png" catchup="shift" catchup-days="3",[COLOR violet]E![/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10646
+
+#EXTINF:-1 tvg-ID="GameOne.fr" tvg-name="FR: Game One HD" tvg-logo="gameone.png" catchup="shift" catchup-days="3",[COLOR violet]Game One[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10650
+
+#EXTINF:-1 tvg-ID="MTV.fr" tvg-name="FR: MTV France HD" tvg-logo="mtv.png" catchup="shift" catchup-days="3",[COLOR violet]MTV[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10883
+
+#EXTINF:-1 tvg-ID="ParisPremiere.fr" tvg-name="FR: Paris Premiere HD" tvg-logo="parispremiere.png" catchup="shift" catchup-days="3",[COLOR violet]Paris Première[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6511
+
+#EXTINF:-1 tvg-ID="PlugRTL.be" tvg-name="BE: PLUG RTL HD" tvg-logo="plugrtl.png" catchup="shift" catchup-days="3",[COLOR violet]Plug RTL[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/723
+
+#EXTINF:-1 tvg-ID="RTLTVI.be" tvg-name="BE: RTL TVI HD" tvg-name="BE: RTL TVI HD" tvg-logo="rtltvi.png" catchup="shift" catchup-days="3",[COLOR violet]RTL TVI[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/719
+
+#EXTINF:-1 tvg-ID="Teva.fr" tvg-name="FR: Teva HD" tvg-logo="teva.png" catchup="shift" catchup-days="3",[COLOR violet]Téva[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/8912
+
+#EXTINF:-1 tvg-ID="Tipik.be" tvg-name="BE: TipiK HD" tvg-logo="tipik.png" catchup="shift" catchup-days="3",[COLOR violet]Tip¡k[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/85
+
+#EXTINF:-1 tvg-ID="TFX.fr" tvg-name="FR: TFX HD" tvg-logo="tfx.png" catchup="shift" catchup-days="3",[COLOR violet]TFX[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10651
+
+#EXTINF:-1 tvg-ID="TVBreizh.fr" tvg-name="FR: TV BREIZH HD" tvg-logo="tvbreizh.png" catchup="shift" catchup-days="3",[COLOR violet]Tv Breizh[/COLOR]
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6515
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Cine+ 1" tvg-logo="https://www.maestrosharing.com/LOGO/be/Cine-plus.jpg" group-title="BELGIUM CHANNELS",BE: Cine+ 1
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/3757
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Cine+ 2" tvg-logo="https://www.maestrosharing.com/LOGO/be/Cine-plus.jpg" group-title="BELGIUM CHANNELS",BE: Cine+ 2
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/3758
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Cine+ 3" tvg-logo="https://www.maestrosharing.com/LOGO/be/Cine-plus.jpg" group-title="BELGIUM CHANNELS",BE: Cine+ 3
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/3759
+#EXTINF:-1 tvg-ID="" tvg-name="BE: Cine+ Anim" tvg-logo="https://www.maestrosharing.com/LOGO/be/Cine-plus.jpg" group-title="BELGIUM CHANNELS",BE: Cine+ Anim
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/3760
+#EXTINF:-1 tvg-ID="Be1.be" tvg-name="BE: Be 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Be_1_logo_2004.png/100px-Be_1_logo_2004.png" group-title="BELGIUM CHANNELS",BE: Be 1
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/32585
+#EXTINF:-1 tvg-ID="BeSeries.be" tvg-name="BE: Be Séries" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bc/Be_S%C3%A9ries_logo.png/200px-Be_S%C3%A9ries_logo.png" group-title="BELGIUM CHANNELS",BE: Be Séries
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/32586
+#EXTINF:-1 tvg-ID="BeCine1.be" tvg-name="BE: Be Ciné" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Be_Cin%C3%A9_logo.png/200px-Be_Cin%C3%A9_logo.png" group-title="BELGIUM CHANNELS",BE: Be Ciné
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/32587
+
+#EXTINF:-1 tvg-ID="AlticeStudio.fr" tvg-name="FR: ALTICE STUDIO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Altice_studio_logo.png/280px-Altice_studio_logo.png" group-title="GENERALISTE FR" catchup="shift" catchup-days="3",FR: ALTICE STUDIO HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/13239
+
+
+#EXTINF:-1 tvg-ID="CANALplusCINEMA.fr" tvg-name="FR: Canal+ Cinema HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: Canal+ Cinema HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5939
+
+#EXTINF:-1 tvg-ID="CANALplusFamily.fr" tvg-name="FR: Canal+ Family HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: Canal+ Family HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5940
+
+#EXTINF:-1 tvg-ID="CANALplusDECALE.fr" tvg-name="FR: Canal+ Decale HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: Canal+ Decale HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5938
+
+#EXTINF:-1 tvg-ID="CanalplusSeries.fr" tvg-name="FR: Canal+ Series HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: Canal+ Series HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5941
+
+#EXTINF:-1 tvg-ID="CinecinemaPremier.fr" tvg-name="FR: CINE+ Premier HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: CINE+ Premier HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5943
+
+#EXTINF:-1 tvg-ID="CinecinemaFrisson.fr" tvg-name="FR: CINE+ Frisson HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: CINE+ Frisson HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5944
+
+#EXTINF:-1 tvg-ID="CinecinemaEmotion.fr" tvg-name="FR: CINE+ Emotion HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: CINE+ Emotion HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5945
+
+#EXTINF:-1 tvg-ID="CinecinemaFamiz.fr" tvg-name="FR: CINE+ FAMIZ HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: CINE+ FAMIZ HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6162
+
+#EXTINF:-1 tvg-ID="CinecinemaClassic.fr" tvg-name="FR: CINE+ CLASSIC HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: CINE+ CLASSIC HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5946
+
+#EXTINF:-1 tvg-ID="CinecinemaClub.fr" tvg-name="FR: CINE+ CLUB HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_251D_45E_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: CINE+ CLUB HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/9586
+
+#EXTINF:-1 tvg-ID="OrangeCineGeants.fr" tvg-name="FR: OCS Geants HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_19CC_444_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: OCS Geants HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6163
+
+#EXTINF:-1 tvg-ID="OrangeCinemax.fr" tvg-name="FR: OCS Max HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: OCS Max HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6164
+
+#EXTINF:-1 tvg-ID="OrangeCineHappy.fr" tvg-name="FR: OCS City HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_1F47_42E_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: OCS City HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6165
+
+#EXTINF:-1 tvg-ID="OrangeCinechoc.fr" tvg-name="FR: OCS Choc HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: OCS Choc HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6166
+
+#EXTINF:-1 tvg-ID="PolarPlus.fr" tvg-name="FR: Polar+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Polar%2B_%28Logo%29.png/220px-Polar%2B_%28Logo%29.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: Polar+ HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/13240
+
+#EXTINF:-1 tvg-ID="TCM.fr" tvg-name="FR: TCM CINEMA HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: TCM CINEMA HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/8311
+
+#EXTINF:-1 tvg-ID="ParamountChannel.fr" tvg-name="FR: Paramount Channel HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: Paramount Channel HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/8312
+
+#EXTINF:-1 tvg-ID="ParamountChannelDecale.fr" tvg-name="FR: Paramount decale HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/langfr-130px-Paramount_Channel.svg.png" group-title="CINEMA FR" catchup="shift" catchup-days="3",FR: Paramount decale HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10782
+
+#EXTINF:-1 tvg-ID="MTV.fr" tvg-name="FR: MTV France HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/langfr-150px-MTV_Logo_2010.svg.png" group-title="SERIES DIVERS FR" catchup="shift" catchup-days="3",FR: MTV France HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10883
+
+#EXTINF:-1 tvg-ID="Warnertv.fr" tvg-name="FR: WARNER TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/150px-Warner2018LA.png" group-title="SERIES DIVERS FR" catchup="shift" catchup-days="3",FR: WARNER TV HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/21675
+
+#EXTINF:-1 tvg-ID="SerieClub.fr" tvg-name="FR: Serie Club HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_1969_44E_1_C00000_0_0_0.png" group-title="SERIES DIVERS FR" catchup="shift" catchup-days="3",FR: Serie Club HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6273
+
+#EXTINF:-1 tvg-ID="Syfy.fr" tvg-name="FR: SYFY HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_19CB_444_1_C00000_0_0_0.png" group-title="SERIES DIVERS FR" catchup="shift" catchup-days="3",FR: SYFY HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6274
+
+#EXTINF:-1 tvg-ID="Action.fr" tvg-name="FR: Action HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="SERIES DIVERS FR" catchup="shift" catchup-days="3",FR: Action HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6276
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="VOOsportWorld1.be" tvg-name="BE: VOO SPORT WORLD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/VOOsport-World-1-HD.png/300px-VOOsport-World-1-HD.png" group-title="SPORTS FR" catchup="shift" catchup-days="3",BE: VOO SPORT WORLD 1
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/11635
+
+#EXTINF:-1 tvg-ID="VOOsportWorld2.be" tvg-name="BE: VOO SPORT WORLD 2" tvg-logo="https://tel.img.pmdstatic.net/fit/http.3A.2F.2Fimages.2Eone.2Eprismamedia.2Ecom.2Fchannel.2Fb.2F7.2F7.2F4.2F1.2Fc.2F3.2Fd.2F6.2F0.2F2.2Fd.2Fc.2F4.2Fc.2F9.2Epng/80x80/quality/80/voosport-world-2.png" group-title="SPORTS FR",BE: VOO SPORT WORLD 2
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/11634
+
+#EXTINF:-1 tvg-ID="VOOsportWorld3.be" tvg-name="BE: VOO SPORT WORLD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/33/VOOsport-World-3.jpg" group-title="SPORTS FR" catchup="shift" catchup-days="3",BE: VOO SPORT WORLD 3
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6158
+
+#EXTINF:-1 tvg-ID="Eurosport1.fr" tvg-name="FR: Eurosport 1 HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_232D_442_1_C00000_0_0_0.png" group-title="SPORTS FR" catchup="shift" catchup-days="3",FR: Eurosport 1 HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6185
+
+#EXTINF:-1 tvg-ID="Eurosport2.fr" tvg-name="FR: Eurosport 2 HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_24BE_43C_1_C00000_0_0_0.png" group-title="SPORTS FR" catchup="shift" catchup-days="3",FR: Eurosport 2 HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10610
+
+#EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="FR: beINSport 1 HD" tvg-logo="http://maestroiptv.com/picon/1_0_1_189D_3F4_1_C00000_0_0_0.png" group-title="SPORTS FR" catchup="shift" catchup-days="3",FR: beINSport 1 HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5426
+
+#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="FR: beINSport 2 HD" tvg-logo="http://maestroiptv.com/picon/1_0_1_189E_3F4_1_C00000_0_0_0.png" group-title="SPORTS FR" catchup="shift" catchup-days="3",FR: beINSport 2 HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5427
+
+#EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="FR: beINSport 3 HD" tvg-logo="http://maestroiptv.com/picon/1_0_1_18A0_3F4_1_C00000_0_0_0.png" group-title="SPORTS FR" catchup="shift" catchup-days="3",FR: beINSport 3 HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5428
+
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal+ Sport 2 LIGUE 1 HD" tvg-logo="" group-title="SPORTS FR" catchup="shift" catchup-days="3",FR: Canal+ Sport 2 LIGUE 1 HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/50971
+
+#EXTINF:-1 tvg-ID="CANALplusSPORT.fr" tvg-name="FR: Canal+ Sport HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="SPORTS FR" catchup="shift" catchup-days="3",FR: Canal+ Sport HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5949
+
+#EXTINF:-1 tvg-ID="RMCSport1.fr" tvg-name="FR: RMC Sport 1 HD" tvg-logo="http://panel.globesrv.com:80/images/8AbRjdZocut6EMV90FgQAomljGGUP6xi.png" group-title="SPORTS FR" catchup="shift" catchup-days="3",FR: RMC Sport 1 HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/5876
+
+#EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="FR: RMC Sport 2 HD" tvg-logo="http://panel.globesrv.com:80/images/8AbRjdZocut6EMV90FgQAomljGGUP6xi.png" group-title="SPORTS FR" catchup="shift" catchup-days="3",FR: RMC Sport 2 HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/6159
+
+#EXTINF:-1 tvg-ID="Infosport.fr" tvg-name="FR: InfoSport HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_2332_442_1_C00000_0_0_0.png" group-title="SPORTS FR" catchup="shift" catchup-days="3",FR: InfoSport HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10609
+
+#EXTINF:-1 tvg-ID="ParamountChannel.fr" tvg-name="FR: Foot+ 24/24 HD" tvg-logo="http://maestroiptv.com/picon/1_0_19_2208_44C_1_C00000_0_0_0.png" group-title="SPORTS FR",FR: Foot+ 24/24 HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10607
+
+#EXTINF:-1 tvg-ID="EquipeTV.fr" tvg-name="FR: Equipe 21 HD" tvg-logo="http://maestroiptv.com/picon/1_0_1_7A4D_410_1_C00000_0_0_0.png" group-title="SPORTS FR" catchup="shift" catchup-days="3",FR: Equipe 21 HD
+http://panel.globesrv.com:80/aphex4145/cde4c4b600/10613
+
+
+
+
